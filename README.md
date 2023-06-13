@@ -35,7 +35,7 @@
   6) Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).
 
-![class](https://github.com/Ledsager/container_homework3/blob/main/animals-class.png)
+![class](https://github.com/Ledsager/container_itog/blob/main/animals-class.png)
 
 
 
